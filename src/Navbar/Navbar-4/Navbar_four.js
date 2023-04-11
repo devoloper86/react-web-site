@@ -8,17 +8,61 @@ function Navbar_four() {
           Furniture
         </p>
       </div>
-      <p className="text-white font-bold text-xs">Outdoor</p>
-      <p className="text-white font-bold text-xs">Tabletop & Bar</p>
-      <p className="text-white font-bold text-xs">Kitchen</p>
-      <p className="text-white font-bold text-xs">Bedding & Bath</p>
-      <p className="text-white font-bold text-xs">Decor & Pillows</p>
-      <p className="text-white font-bold text-xs">Rugs</p>
-      <p className="text-white font-bold text-xs">Lighting</p>
-      <p className="text-white font-bold text-xs">Window</p>
-      <p className="text-white font-bold text-xs">Gifts</p>
-      <p className="text-rose-600 font-bold text-xs">SALE</p>
-      <p className="text-white font-bold text-xs">&kids</p>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Outdoor
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Tabletop & Bar
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Kitchen
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Bedding & Bath
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Decor & Pillows
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Rugs
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Lighting
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Window
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        Gifts
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-rose-600 font-bold text-xs ">
+        SALE
+        </p>
+      </div>
+      <div className="border-b-4 border-transparent flex items-center cursor-pointer  hover:border-white">
+        <p className="text-white font-bold text-xs ">
+        &kids
+        </p>
+      </div>
     </div>
   );
 }
